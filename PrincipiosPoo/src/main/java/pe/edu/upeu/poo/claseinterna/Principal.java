@@ -9,10 +9,9 @@ public class Principal {
     System.out.println("La mama provee "+ma.alimento);
     Mama.Bebe bb=ma.new Bebe();
     System.out.println("su bebe tiene un peso"+bb.peso+"Kg");
-<<<<<<< HEAD
+
     System.out.println("Cambio de mama");
     
-=======
->>>>>>> 4404d24d64d5f8dcc22e026a506e5df0bc00e488
+
     }
 }
